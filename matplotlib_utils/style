@@ -1,0 +1,10 @@
+figure.figsize : 6.5, 4
+figure.dpi : 100
+savefig.dpi : 100
+axes.spines.top : False
+axes.spines.right : False
+axes.edgecolor : 000000
+xtick.color : 000000
+ytick.color : 000000
+text.color : 000000
+font.family : Arial
