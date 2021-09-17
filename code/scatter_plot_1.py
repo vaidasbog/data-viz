@@ -52,5 +52,5 @@ ax.text(0, -0.5, 'Miles drive per month', fontsize=10, color=GRAY4)
 ax.text(-550, 2.3, 'Cost per mile', fontsize=10, color=GRAY4, rotation='vertical')
 ax.text(-550, 3.3, 'Cost per mile by miles driven', fontsize=14, color=GRAY2)
 
-plt.savefig('plots/scatter_plot_1.png')
+plt.savefig('plots/scatter_plot_1.png', bbox_inches="tight")
 plt.show()
