@@ -1,1 +1,2 @@
-# data-viz
+# Collection of data visualizations
+
