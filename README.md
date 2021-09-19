@@ -5,11 +5,11 @@
 Source: Story telling with data, Cole Nussbaumer Knaflic, 2015  
 Data: https://www.storytellingwithdata.com/book/downloads 
 
-<img align="center" width="406.25" height="260" src="https://github.com/vaidasbog/data-viz/blob/main/plots/scatter_plot_1.png"><br/><br/>
+<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/scatter_plot_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
 
 ## [line_plot_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_1.py)
 
 Source: Story telling with data, Cole Nussbaumer Knaflic, 2015  
 Data: https://www.storytellingwithdata.com/book/downloads
 
-<img align="center" width="406.25" height="260" src="https://github.com/vaidasbog/data-viz/blob/main/plots/line_plot_1.png"><br/><br/>
+<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/line_plot_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
