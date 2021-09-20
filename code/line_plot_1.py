@@ -18,14 +18,6 @@ mpl.rcParams['ytick.color'] = '#414040'         # Gray xticks
 mpl.rcParams['text.color'] = '#414040'          # Text
 mpl.rcParams['font.family'] = 'Arial'           # Font
 
-# Data
-min = [9, 6, 7, 12, 12, 7, 7, 9, 8, 12, 13, 17, 14]
-avg = [18, 12, 13, 18, 17, 13, 12, 14, 13, 18, 19, 24, 21]
-max = [27, 17, 17, 26, 24, 20, 18, 21, 21, 28, 26, 36, 32]
-date = pd.date_range(start='2014-09-01', end='2015-09-01',
-                     freq='MS') + pd.Timedelta(14, unit='d')  # 15th of the month
-data = pd.DataFrame({'date': date, 'min': min, 'avg': avg, 'max': max})
-
 # Colors
 GRAY1, GRAY2, GRAY3 = '#231F20', '#414040', '#555655'
 GRAY4, GRAY5, GRAY6 = '#646369', '#76787B', '#828282'
@@ -34,6 +26,14 @@ BLUE1, BLUE2, BLUE3, BLUE4 = '#174A7E', '#4A81BF', '#94B2D7', '#94AFC5'
 RED1, RED2 = '#C3514E', '#E6BAB7'
 GREEN1, GREEN2 = '#0C8040', '#9ABB59'
 ORANGE1 = '#F79747'
+
+# Data
+min = [9, 6, 7, 12, 12, 7, 7, 9, 8, 12, 13, 17, 14]
+avg = [18, 12, 13, 18, 17, 13, 12, 14, 13, 18, 19, 24, 21]
+max = [27, 17, 17, 26, 24, 20, 18, 21, 21, 28, 26, 36, 32]
+date = pd.date_range(start='2014-09-01', end='2015-09-01',
+                     freq='MS') + pd.Timedelta(14, unit='d')  # 15th of the month
+data = pd.DataFrame({'date': date, 'min': min, 'avg': avg, 'max': max})
 
 fig, ax = plt.subplots()
 
@@ -86,5 +86,5 @@ ax.set_ylim(0, 40)
 ax.set_xlim(data.date.min() - pd.Timedelta(14, unit='d'),
             data.date.max() + pd.Timedelta(16, unit='d'))
 
-plt.savefig('data-viz/plots/line_plot_1.png', bbox_inches="tight")
+plt.savefig('plots/line_plot_1.png', bbox_inches="tight")
 plt.show()
