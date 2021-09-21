@@ -17,8 +17,7 @@ ORANGE1 = '#F79747'
 
 # Setting the stage
 mpl.rcParams['figure.figsize'] = 6.5, 4         # figure size
-# dots per inch, magnifying effect
-mpl.rcParams['figure.dpi'] = 100
+mpl.rcParams['figure.dpi'] = 100                # dots per inch, magnifying effect
 mpl.rcParams['axes.spines.top'] = False         # Remove top spine
 mpl.rcParams['axes.spines.right'] = False       # Remove right spine
 mpl.rcParams['axes.edgecolor'] = GRAY2          # Gray edge collors
