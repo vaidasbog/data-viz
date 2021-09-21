@@ -6,18 +6,6 @@ import matplotlib as mpl
 from matplotlib import ticker
 import matplotlib.dates as dates
 
-# Setting the stage
-mpl.rcParams['figure.figsize'] = 6.5, 4         # figure size
-# dots per inch, magnifying effect
-mpl.rcParams['figure.dpi'] = 100
-mpl.rcParams['axes.spines.top'] = False         # Remove top spine
-mpl.rcParams['axes.spines.right'] = False       # Remove right spine
-mpl.rcParams['axes.edgecolor'] = '#414040'      # Gray edge collors
-mpl.rcParams['xtick.color'] = '#414040'         # Gray yticks
-mpl.rcParams['ytick.color'] = '#414040'         # Gray xticks
-mpl.rcParams['text.color'] = '#414040'          # Text
-mpl.rcParams['font.family'] = 'Arial'           # Font
-
 # Colors
 GRAY1, GRAY2, GRAY3 = '#231F20', '#414040', '#555655'
 GRAY4, GRAY5, GRAY6 = '#646369', '#76787B', '#828282'
@@ -26,6 +14,18 @@ BLUE1, BLUE2, BLUE3, BLUE4 = '#174A7E', '#4A81BF', '#94B2D7', '#94AFC5'
 RED1, RED2 = '#C3514E', '#E6BAB7'
 GREEN1, GREEN2 = '#0C8040', '#9ABB59'
 ORANGE1 = '#F79747'
+
+# Setting the stage
+mpl.rcParams['figure.figsize'] = 6.5, 4         # figure size
+# dots per inch, magnifying effect
+mpl.rcParams['figure.dpi'] = 100
+mpl.rcParams['axes.spines.top'] = False         # Remove top spine
+mpl.rcParams['axes.spines.right'] = False       # Remove right spine
+mpl.rcParams['axes.edgecolor'] = GRAY2          # Gray edge collors
+mpl.rcParams['xtick.color'] = GRAY2             # Gray yticks
+mpl.rcParams['ytick.color'] = GRAY2             # Gray xticks
+mpl.rcParams['text.color'] = GRAY2              # Text
+mpl.rcParams['font.family'] = 'Arial'           # Font
 
 # Data
 min = [9, 6, 7, 12, 12, 7, 7, 9, 8, 12, 13, 17, 14]
@@ -78,7 +78,7 @@ for ix, tick in enumerate(ax.xaxis.get_major_ticks()):
     if (ix == 0) | (ix == 4) | (ix == 13):
         tick.tick1line.set_markersize(30)
 ax.text(data.date[1] + pd.Timedelta(5, unit='d'), -
-        5, '2014', fontsize=10, color=GRAY3)
+        5, '2014', fontsize=10, color=GRAY3) 
 ax.text(data.date[7] + pd.Timedelta(5, unit='d'), -
         5, '2015', fontsize=10, color=GRAY3)
 

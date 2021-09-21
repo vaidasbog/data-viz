@@ -4,17 +4,6 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 from matplotlib import ticker
 
-# Setting the stage
-mpl.rcParams['figure.figsize'] = 6.5, 4         # figure size
-mpl.rcParams['figure.dpi'] = 100                # dots per inch, magnifying effect
-mpl.rcParams['axes.spines.top'] = False         # Remove top spine
-mpl.rcParams['axes.spines.right'] = False       # Remove right spine
-mpl.rcParams['axes.edgecolor'] = '#414040'      # Gray edge collors
-mpl.rcParams['xtick.color'] = '#414040'         # Gray yticks
-mpl.rcParams['ytick.color'] = '#414040'         # Gray xticks
-mpl.rcParams['text.color'] = '#414040'          # Text
-mpl.rcParams['font.family'] = 'Arial'           # Font
-
 # Colors
 GRAY1, GRAY2, GRAY3 = '#231F20', '#414040', '#555655'
 GRAY4, GRAY5, GRAY6 = '#646369', '#76787B', '#828282'
@@ -23,6 +12,17 @@ BLUE1, BLUE2, BLUE3, BLUE4 = '#174A7E', '#4A81BF', '#94B2D7', '#94AFC5'
 RED1, RED2 = '#C3514E', '#E6BAB7'
 GREEN1, GREEN2 = '#0C8040', '#9ABB59'
 ORANGE1 = '#F79747'
+
+# Setting the stage
+mpl.rcParams['figure.figsize'] = 6.5, 4         # figure size
+mpl.rcParams['figure.dpi'] = 100                # dots per inch, magnifying effect
+mpl.rcParams['axes.spines.top'] = False         # Remove top spine
+mpl.rcParams['axes.spines.right'] = False       # Remove right spine
+mpl.rcParams['axes.edgecolor'] = GRAY2          # Gray edge collors
+mpl.rcParams['xtick.color'] = GRAY2             # Gray yticks
+mpl.rcParams['ytick.color'] = GRAY2             # Gray xticks
+mpl.rcParams['text.color'] = GRAY2              # Text
+mpl.rcParams['font.family'] = 'Arial'           # Font
 
 # Data
 x = np.array([1100,	1177,	1239,	1294,	1378,	1481,	1540,	1712,	1650,	1817,	1971,	1984,	2135,	2211,	2225,	2200,	2256,
