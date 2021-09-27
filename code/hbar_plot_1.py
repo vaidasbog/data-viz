@@ -70,5 +70,5 @@ ax.text(0.64, 5.5,  columns[4], fontsize=10, color=BLUE1, weight='bold')
 
 ax.text(-0.02, 5.05,  'Percent of total', fontsize=10, color=GRAY2)
 
-plt.savefig('plots/hbar_plot_1_1.png', bbox_inches="tight")
+plt.savefig('plots/hbar_plot_1.png', bbox_inches="tight")
 plt.show()

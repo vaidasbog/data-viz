@@ -13,7 +13,7 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ## [waterfall_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/waterfall_1.py)
 
-<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/line_plot_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
+<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/waterfall_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
 
 ## [hbar_plot_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/hbar_plot_1.py)
 
