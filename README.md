@@ -18,3 +18,7 @@ Data: https://www.storytellingwithdata.com/book/downloads
 ## [hbar_plot_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/hbar_plot_1.py)
 
 <a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/hbar_plot_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
+
+## [wafflle_plot_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/waffle_plot_1.py)
+
+<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/waffle_plot_1.png" align="center" height="250" width="406.25" ></a><br/><br/>
