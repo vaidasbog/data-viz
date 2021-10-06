@@ -25,4 +25,4 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ## [bar_and_line_overlay_plot.py](https://github.com/vaidasbog/data-viz/blob/main/code/bar_and_line_overlay_plots.py)
 
-<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/bar_and_line_overlay_plot.png" align="center" height="250" width="406.25" ></a><br/><br/>
+<a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/bar_and_line_overlay_plot.png" align="center" height="250" width="250" ></a><br/><br/>
