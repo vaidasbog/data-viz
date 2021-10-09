@@ -36,6 +36,6 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/slopegraph_1.png)  
 
-## [Figure 9. Slopegraph](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_2.py)
+## [Figure 9. Line plot](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_2.py)
 
 ![](plots/line_plot_2.png)  
