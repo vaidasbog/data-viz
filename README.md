@@ -30,3 +30,9 @@ Data: https://www.storytellingwithdata.com/book/downloads
 ## [scatter_plot_2.py](https://github.com/vaidasbog/data-viz/blob/main/code/scatter_plot_2.py)
 
 <a href="url"><img src="https://github.com/vaidasbog/data-viz/blob/main/plots/scatter_plot_2.png" align="center" height="250" width="406.25" ></a><br/><br/>
+
+## [scatter_plot_1.py](https://github.com/vaidasbog/data-viz/blob/main/code/scatter_plot_1.py)
+
+![](plots/scatter_plot_1.png)
+
+
