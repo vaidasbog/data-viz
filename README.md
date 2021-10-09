@@ -32,6 +32,10 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/scatter_plot_2.png)
 
-## [Figure 8. Slopegraph](https://github.com/vaidasbog/data-viz/blob/main/code/scatter_plot_2.py)
+## [Figure 8. Slopegraph](https://github.com/vaidasbog/data-viz/blob/main/code/slopegraph_1.py)
 
-![](plots/slopegraph_1.png)
+![](plots/slopegraph_1.png)  
+
+## [Figure 9. Slopegraph](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_2.py)
+
+![](plots/line_plot_2.png)  
