@@ -38,4 +38,8 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ## [Figure 9. Line plot](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_2.py)
 
-![](plots/line_plot_2.png)  
+![](plots/line_plot_2.png) 
+
+## [Figure 10. Bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/bar_plot_1.py)
+
+![](plots/bar_plot_1.png)  
