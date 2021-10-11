@@ -43,3 +43,7 @@ Data: https://www.storytellingwithdata.com/book/downloads
 ## [Figure 10. Bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/bar_plot_1.py)
 
 ![](plots/bar_plot_1.png)  
+
+## [Figure 10. Progress line plot](https://github.com/vaidasbog/data-viz/blob/main/code/progress_line_plot.py)
+
+![](plots/progress_line_plot.png)  
