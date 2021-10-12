@@ -47,3 +47,7 @@ Data: https://www.storytellingwithdata.com/book/downloads
 ## [Figure 11. Progress line plot](https://github.com/vaidasbog/data-viz/blob/main/code/progress_line_plot.py)
 
 ![](plots/progress_line_plot.png)  
+
+## [Figure 12. Progress line plot](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_3.py)
+
+![](plots/line_plot_3.png)  
