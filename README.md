@@ -48,6 +48,23 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/progress_line_plot.png)  
 
-## [Figure 12. Progress line plot](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_3.py)
+## [Figure 12. Line plot](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_3.py)
 
 ![](plots/line_plot_3.png)  
+
+## [Figure 13. Stacked bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/bar_plot_2.py)
+
+![](plots/bar_plot_2.png) 
+
+# TODO
+Quick access:
+* Percent formatter of axis (hbar_plot_1.py)
+* Number of tick in axis (see: tick locators, bar_plot_2.py)
+* Custom tick label values (see FixedFormatter, bar_plot_2.py)
+* Custom legend (bar_plot_2.py)
+
+# Usefull links
+https://matplotlib.org/stable/gallery/ticks_and_spines/tick-locators.html
+https://matplotlib.org/3.1.1/gallery/ticks_and_spines/tick-formatters.html
+https://matplotlib.org/stable/gallery/ticks_and_spines/major_minor_demo.html
+https://matplotlib.org/stable/tutorials/intermediate/legend_guide.htmlv
