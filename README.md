@@ -56,6 +56,11 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/bar_plot_2.png) 
 
+## [Figure 14. Stacked bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/bar_plot_3.py)
+
+![](plots/bar_plot_3.png) 
+
+
 # TODO
 Quick access:
 * Percent formatter of axis (hbar_plot_1.py)
