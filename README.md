@@ -60,6 +60,10 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/bar_plot_3.png) 
 
+## [Figure 15. Stacked bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/hbar_plot_2.py)
+
+![](plots/hbar_plot_2.png) 
+
 
 # TODO
 Quick access:
