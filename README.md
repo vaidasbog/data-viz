@@ -64,6 +64,12 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/hbar_plot_2.png) 
 
+## [Figure 16. Background colors](https://github.com/vaidasbog/data-viz/blob/main/code/background.py)
+
+White background | Blue background | Black background
+:-------------------------:|:-------------------------:|:-------------------------:
+![](plots/background_white.png)  |  ![](plots/background_blue.png) | ![](plots/background_black.png)
+
 
 # TODO
 Quick access:
