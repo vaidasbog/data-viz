@@ -70,6 +70,17 @@ White background | Blue background | Black background
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](plots/background_white.png)  |  ![](plots/background_blue.png) | ![](plots/background_black.png)
 
+## [Figure 17. Line plot progression](https://github.com/vaidasbog/data-viz/blob/main/code/background.py)
+
+1/5 | 2/5 | 3/5 | 4/5 | 5/5
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](plots/line_plot_progression_1_5.png)  |  ![](plots/line_plot_progression_2_5.png) | ![](plots/line_plot_progression_3_5.png) | ![](plots/line_plot_progression_4_5.png) | ![](plots/line_plot_progression_5_5.png)
+
+Circulated version:
+![](plots/line_plot_progression.png) 
+
+# Quick access:
+* Get tick labels in a list; Modify tick labels; Set new tick labels;
 
 # TODO
 Quick access:
