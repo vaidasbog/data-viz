@@ -79,6 +79,17 @@ White background | Blue background | Black background
 Circulated version:
 ![](plots/line_plot_progression.png) 
 
+# Presentation
+
+1. Title slide
+2. What is it about
+3.
+...
+X. References
+
+# Notebook
+1 Example with BA colors and font
+
 # Quick access:
 * Get tick labels in a list; Modify tick labels; Set new tick labels;
 
