@@ -11,7 +11,6 @@ Data: https://www.storytellingwithdata.com/book/downloads
 
 ![](plots/line_plot_1.png)
 
-
 ## [Figure 3. Waterfall plot](https://github.com/vaidasbog/data-viz/blob/main/code/waterfall_1.py)
 
 ![](plots/waterfall_1.png)
