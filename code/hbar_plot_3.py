@@ -82,7 +82,7 @@ ax.bar_label(ax6, labels=[f"{val: .0%}" if ix in [13, 14] else f"" for ix, val i
 ax.legend(loc='upper left', bbox_to_anchor=(-0.17, 1.07), ncol=6, frameon=False, handlelength=0.7, handletextpad=0.4, labelcolor=[BLUE3, ORANGE1, ORANGE1, GRAY5, BLUE2, BLUE2])
 
 # Annotations
-ax.text(-0.17, 18.5, 'User satisfaction varies greatly by feature' + ' '*90, fontsize=16,backgroundcolor=GRAY7,color=WHITE1)
+ax.text(-0.17, 18.5, 'User satisfaction varies greatly by feature' + ' '*105, fontsize=16,backgroundcolor=GRAY7,color=WHITE1)
 ax.text(-0.17, 17, 'Product X User Satisfaction: ' r"$\bf{Features}$" , fontsize=14, color=GRAY5)
 caption = 'Respones based on survey question: "How satisfied have ypu been with each of these features?\n'+ 'Need more details here to put this data into context; How many people completed survey? What proportion of users does this represent?\n' + 'Do those who complete the survey look like the overall population demographic-wise? When was the survey conducted?'
 ax.text(-0.17, -2.5, caption , fontsize=8, color=GRAY6)
