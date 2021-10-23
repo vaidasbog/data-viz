@@ -70,7 +70,7 @@ White background | Blue background | Black background
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](plots/background_white.png)  |  ![](plots/background_blue.png) | ![](plots/background_black.png)
 
-## [Figure 17. Line plot progression](https://github.com/vaidasbog/data-viz/blob/main/code/background.py)
+## [Figure 17. Line plot progression](https://github.com/vaidasbog/data-viz/blob/main/code/line_plot_progression.py)
 
 1/5 | 2/5 | 3/5 | 4/5 | 5/5
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -78,6 +78,10 @@ White background | Blue background | Black background
 
 Circulated version:
 ![](plots/line_plot_progression.png) 
+
+## [Figure 18. Horizontal bar plot](https://github.com/vaidasbog/data-viz/blob/main/code/hbar_plot_3.py)
+
+![](plots/hbar_plot_3.png) 
 
 # Presentation
 
