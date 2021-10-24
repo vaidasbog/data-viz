@@ -86,9 +86,42 @@ Circulated version:
 
 1. Title slide
 2. What is it about
-3.
-...
+- People who don't understand the plot tend to blaim them selves. But it's usually the fault of designer.
+- Don't overcomplicate. If it's hard to read it's har to do. The more complicated it looks the more time your audience perceives it will take to understand it and the less likely they will spend time understanding it. 
+- Aesthetically design are perceived as more readily accepted and used overtime and promote creative thinking pg. 145.
+- When we pay attention to detail we create a conract with our audience so that they are obliged to spend more time with the graph.
+3. 
+4. Clutter
+- Figure 3.13, 3.24, 3.15 vs. 3.16
+5. Focus attention
+- Figure 4.2 vs. 4.3, 4.14, 4.16
+6. Design choices, text and etc.
+- Fi. 5.10
+6. No-go:
+- Secondary axis, pie charts, 3D visuals
+7. Best examples and use cases:
+- <...>
+- Line graphs to show tren over time.
+8. Tips:
+- Gray colors!!!
+- Title is precious part - use for recommendation. pg. 141
+- Z reading principle/ Figure 5.6.
+- Include brand colors
+- Formatting fonts?
+- Caption to indlude data source and date of extraction.
+- Show Fleetcor examples:
+- BA template for matplotlib
+- Axis labl formatting to include $,%, thousand separator
+- These design choices are not for everyone: pg.149. 
+- Poor design choises in Fleetcor: Box plot, tables without colors etc.
+- Use text it to label, explain, reinforce, highligh, recommend and tell a story.
+- Label axis and have titles to reduce time needed to understant how to read the plot.
+- 
+
+
 X. References
+
+
 
 # Notebook
 1 Example with BA colors and font
